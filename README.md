@@ -3,7 +3,7 @@
 
 **Toolbar Creator** is one of few especially useful on-screen toolbars for Windows Tablet PCs. It makes using Windows tablets without keyboard much more comfortable and convenient. The software is developed by [**lblb**](http://forum.tabletpcreview.com/threads/toolbar-creator-v-2-2-beta-available-for-download.63014/) at TabletPC Review forum, which is a UI-friendly front-end for `RawInputControlTest` script by [**koide**](http://39kasen.sakura.ne.jp/rawinputcontroltest/).
 
-This repository is a toolbar *template*, specifically designed for painting in Adobe (R) Photoshop (R) and ClipStudio Paint aka. Manga Studio (R). Icon design is kindly provided by `gahfe` at `TabletPC Review` forums. The template was created, ***assuming*** that modifier keys (Ctrl, Alt, Shift) reside on an external harware device, eg. keyboard, tablet buttons, gamepad etc. I have mine on a [Zeemote controller](http://i.imgur.com/Z8ivi4l)
+This repository is a toolbar *template*, specifically designed for painting in Adobe (R) Photoshop (R) and ClipStudio Paint aka. Manga Studio (R). Icon design is kindly provided by [**gahfe**](http://forum.tabletpcreview.com/threads/slatepal-dock-developing.54774/) at TabletPC Review forum. The template was created, ***assuming*** that modifier keys (Ctrl, Alt, Shift) reside on an external harware device, eg. keyboard, tablet buttons, gamepad etc. I have mine on a [Zeemote controller](http://i.imgur.com/Z8ivi4l)
 ## Screenshot
 ![Screenshot](v2_2_b5/v2_2_b5.png)
 ## Logs
