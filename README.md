@@ -10,6 +10,7 @@ This repository is a toolbar *template*, specifically designed for painting in A
 -  template for v2.2 beta 5 with more buttons added
 
 ## Installation instructions
+0. *(for non-GitHub users)* Click "Download ZIP" in the sidebar on the right, then extract the downloaded file into a folder, and go into `Toolbar-Creator-master\" folder
 1. Copy and paste folder `[version]\Files` into your `Toolbar Creator` folder. 
 `[version]` is either `v2_1` or `v2_2_b5` accordingly to your existing `Toolbar Creator` version.
 2. Replace/Merge all existing files/folders if prompted.
