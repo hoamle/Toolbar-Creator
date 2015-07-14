@@ -11,4 +11,4 @@ This commit is a toolbar template, specifically designed to be used with Adobe (
 2. Replace/Merge all existing files/folders if prompted.
 3. Launch Toolbar Creator and change the current toolbar to "painting".
 
-[Screenshot](v2_2_b5/v2_2_b5.png)
+![Screenshot](v2_2_b5/v2_2_b5.png)
